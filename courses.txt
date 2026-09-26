@@ -1,5 +1,6 @@
 Liste de courses
--chips
+- chips
 - jus de pommes
 - pizza
 - gâteau au chocolat
+- glaçons
